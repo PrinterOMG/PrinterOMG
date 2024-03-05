@@ -4,7 +4,7 @@
 
 ## Мой стек технологий
 - **Языки программирования:** Python
-- **Библиотеки:** Aiogram, FastApi, Django
+- **Фреймворки:** Aiogram, FastApi, Django
 - **ORM:** SQLAlchemy
 - **Базы данных:** PostgreSQL, Redis
 - **API и микросервисы:** REST
