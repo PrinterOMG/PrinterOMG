@@ -4,7 +4,7 @@
 
 **Python backend developer · Technical leadership · Applied AI**
 
-[Email](mailto:kitaev.gregory@gmail.com) · [Telegram](https://t.me/printeromg)
+[Email](mailto:kitaev.gregory@gmail.com) · [Telegram: @g_kitaev](https://t.me/g_kitaev)
 
 I'm Gregory, 21, a Python backend developer at [KTS](https://kts.tech/). I've been into programming since school.
 

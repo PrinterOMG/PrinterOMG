@@ -4,7 +4,7 @@
 
 **Python backend-разработчик · Техническое лидерство · Прикладной ИИ**
 
-[Email](mailto:kitaev.gregory@gmail.com) · [Telegram](https://t.me/printeromg)
+[Email](mailto:kitaev.gregory@gmail.com) · [Telegram: @g_kitaev](https://t.me/g_kitaev)
 
 Мне 21, я Python backend-разработчик в [KTS](https://kts.tech/). Увлекаюсь программированием со школы.
 
