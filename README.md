@@ -16,7 +16,9 @@ My background combines backend engineering, technical leadership, and applied AI
 
 KTS builds digital products for businesses: web services, mobile apps, enterprise systems, and AI solutions.
 
-Combined backend development with system design, technical planning, code review, releases, and client communication. Mentored developers and students, and took part in interviews and technical reviews.
+Combined backend development with system design, technical planning, code review, releases, and client communication. Mentored developers and took part in interviews and technical reviews.
+
+Mentor at [Metaclass](https://metaclass.kts.tech/beginner_backend), KTS's school for developers, on the beginner Python backend programme.
 
 ### Enterprise AI assistant
 
